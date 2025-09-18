@@ -65,3 +65,10 @@ layout: default
 
 　　（对了，如果只是短暂过境，其实国内运营商推出的“非洲多国包”也可能更省心——尤其当你还要去卢旺达或坦桑尼亚的话。但那就是另一个故事了。）
 　　<<<END_ARTICLE
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Burundi eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/burundi-data-plans)
